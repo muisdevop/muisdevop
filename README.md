@@ -84,8 +84,11 @@ Founder & Chief Executive Officer at **[GID Studio (SMC-Private) Limited](https:
 ### GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muisdevop&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=10B981&text_color=CBD5E1&ring_color=0284C7" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muisdevop&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=muisdevop&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0284C7&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muisdevop&bg_color=0D1117&color=94A3B8&line=0284C7&point=10B981&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <div align="center">
