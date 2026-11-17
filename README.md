@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F172A,100:0284C7&height=210&section=header&text=Muhammad%20Usama%20Intezar&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20GID%20Studio%20%E2%80%A2%20Full-Stack%2C%20Mobile%20%26%20Linux%20Systems%20Engineer&descSize=15&descAlignY=60&descColor=94A3B8" width="100%" alt="Muhammad Usama Intezar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F172A,100:0284C7&height=210&section=header&text=Muhammad%20Usama%20Intezar&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Founder%20and%20CEO%20%40%20GID%20Studio%20%E2%80%A2%20Full-Stack%2C%20Mobile%20%2B%20Linux%20Systems%20Engineer&descSize=15&descAlignY=60&descColor=CBD5E1" width="100%" alt="Muhammad Usama Intezar Header" />
 </div>
 
 <p align="center">
